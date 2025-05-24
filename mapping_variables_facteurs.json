@@ -1,0 +1,974 @@
+{
+  "Financier": {
+    "Avez-vous l’impression que les véhicules électriques soient trop chers à l’achat ou à l’entretien ?\n": [
+      "Je ne sais pas",
+      "Non",
+      "Oui"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Recharge (vs carburant essence/diesel))": [
+      "False",
+      "True"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Entretien (moins de pièces, pas de vidange, freins moins sollicités))": [
+      "False",
+      "True"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Aides gouvernementales et avantages fiscaux (TVA, carte grise gratuite, bonus écologique…))": [
+      "False",
+      "True"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Stationnement gratuit ou facilité dans certaines zones)": [
+      "False",
+      "True"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Coût de possession global réduit (assurance...))": [
+      "False",
+      "True"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Recharge gratuite possible (travail, domicile, certains supermarchés))": [
+      "False",
+      "True"
+    ],
+    "Connaissez-vous des aides financières disponibles pour l’achat d’un véhicule électrique ? (Cochez tout ce que vous connaissez)\n": [
+      "Aides locales ou régionales (mairie, région, etc.)",
+      "Autre",
+      "Bonus écologique",
+      "Exonération de carte grise",
+      "Je ne sais pas",
+      "Prime à la conversion",
+      "Quelles que soient les aides",
+      "TVA réduite ou crédit d’impôt (le cas échéant)"
+    ],
+    "(Optionnel) Il existe plusieurs façons de financer un véhicule électrique: \nLOA (location avec option d’achat), la LLD (location longue durée), leasing social, crédit auto...\nL’une de ces options vous semblerait-elle adaptée à votre situation ?\n": [
+      "Je ne sais pas",
+      "Non ",
+      "Oui"
+    ],
+    "(Optionnel) Parmi les éléments suivants, lesquels vous semblent les plus importants dans le coût d’un véhicule électrique ? (Le coût de la recharge au quotidien)": [],
+    "(Optionnel) Parmi les éléments suivants, lesquels vous semblent les plus importants dans le coût d’un véhicule électrique ? (Autre)": [],
+    "(Optionnel) Parmi cette liste, avez-vous déjà rencontré certaines de ces limites ou de ces problèmes techniques (panne, problème dans l'entretien du véhicule) ?   [Temps de recharge plus long que prévu]": [],
+    "(Optionnel) Parmi les éléments suivants, lesquels vous semblent les plus importants dans le coût d’un véhicule électrique ? (Le prix d’achat initial)": [],
+    "Est-ce que ces aides impactent votre envie d'adopter un véhicule électrique ?": [],
+    "(Optionnel) Parmi cette liste, avez-vous déjà rencontré certaines de ces limites ou de ces problèmes techniques (panne, problème dans l'entretien du véhicule) ?   [Autonomie inférieure à celle annoncée]": [],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Autre)": [],
+    "Dans quelle mesure êtes-vous d’accord avec les affirmations suivantes concernant les véhicules électriques ?\n [Les aspects pratiques d’un véhicule électrique sont clairs pour moi (ex. : recharge, autonomie, entretien)]": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (🎁 Aides financières / fiscales)": [],
+    "(Optionnel) Parmi les éléments suivants, lesquels vous semblent les plus importants dans le coût d’un véhicule électrique ? (Aucun élément ne me me semble impactant)": [],
+    "(Optionnel) Parmi cette liste, avez-vous déjà rencontré certaines de ces limites ou de ces problèmes techniques (panne, problème dans l'entretien du véhicule) ?   [Fonctionnalité du véhicule qui ne répond pas (écran, frein régénératif, connectivité…)]": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (💸 Économies à long terme)": [],
+    "Et vos principaux blocages ? (❗ Coût d’achat élevé)": [],
+    "(Optionnel) Parmi les éléments suivants, lesquels vous semblent les plus importants dans le coût d’un véhicule électrique ?": [],
+    "Est-ce que ces aides ont influencé votre décision d’achat ?": [],
+
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (💸 Économies à long terme)": [],
+    "Et vos principaux blocages ? (💸 Offres de financement peu claires)": [
+      "False",
+      "True"
+    ],
+    "Avez-vous bénéficié d’aides financières lors de l’achat de votre véhicule électrique ? Lesquelles parmi celles-ci ?": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (🎁 Aides financières / fiscales)": [
+      "False",
+      "True"
+    ],
+    "(Optionnel) Parmi les éléments suivants, lesquels vous semblent les plus importants dans le coût d’un véhicule électrique ? (Le coût d’entretien potentiel)": [
+      "False",
+      "True"
+    ],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique)": [],
+    "Quels éléments économiques vous semblent avantageux dans l’usage d’un VE ? (Cochez tout ce qui s’applique) (Aucun)": [
+      "False",
+      "True"
+    ]
+  },
+  "Psychologique/Symbolique/Identité": {
+    "Diriez-vous que : [Vous êtes sensible aux questions environnementales]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Que représente pour vous un véhicule 100% électrique ? (Un symbole d’innovation et de modernité)": [
+      "False",
+      "True"
+    ],
+    "Que représente pour vous un véhicule 100% électrique ? (Un geste pour la planète)": [
+      "False",
+      "True"
+    ],
+    "Que représente pour vous un véhicule 100% électrique ? (L'avenir du transport)": [
+      "False",
+      "True"
+    ],
+    "Que représente pour vous un véhicule 100% électrique ? (Une technologie encore trop jeune)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi cette technologie ne vous intéresse pas ? Est-ce une question de valeurs, de style de vie, d'expériences ?\n": [
+    ],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (": [],
+    "Et vos principaux blocages ? (": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (📢 Communication des marques)": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (Autre)": [],
+    "Et vos principaux blocages ? (📛 Manque d’intérêt personnel)": [],
+    "Pourquoi ré-adopterez vous un véhicule électrique ? Est-ce une question de valeurs, de style de vie, d'expériences ?\n": [],
+    "Pourquoi cette technologie vous intéresse-elle ? Est-ce une question de valeurs, de style de vie, d'expériences ?\n": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (⚡ Facilité de recharge)": [],
+    "Que représente pour vous un véhicule 100% électrique ?": [],
+    "Et vos principaux blocages ? (⚡ Infrastructure insuffisante)": [],
+    "Et vos principaux blocages ? (😰 Autonomie limitée)": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (👥 Avis de l'entourage )": [],
+    "Et vos principaux blocages ? (🧠 Manque d’information)": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (🛑 Contraintes réglementaires (ex : ZFE))": [],
+    "Que représente pour vous un véhicule entièrement électrique ? [Un signe démarquant socialement]": [],
+    "Et vos principaux blocages ? (Autre)": [],
+    "Et vos principaux blocages ? (👂Changement d’habitudes déstabilisant)": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (🌱 Respect de vos convictions)": [],
+    "Que représente pour vous un véhicule entièrement électrique ? [Un geste pour la planète]": [],
+    "Et vos principaux blocages ?": [],
+    "Que représente pour vous un véhicule entièrement électrique ? [Une technologie encore trop jeune]": [],
+    "Que représente pour vous un véhicule 100% électrique ? (Un signe démarquant socialement)": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (🚀 Image de modernité / innovation)": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (👥 Avis de l'entourage )": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (🌱 Respect de vos convictions)": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ?": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (📢 Communication des marques)": [
+      "True",
+      "False"
+    ],
+    "Diriez-vous que : [Les polémiques autour des VE vous inquiètent]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Classez vos motivations par ordre d'importance": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ?": [],
+    "Que représente pour vous un véhicule entièrement électrique ? [L'avenir du transport]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Que représente pour vous un véhicule entièrement électrique ? [Un symbole d’innovation et de modernité]": [],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (🚗 Confort de conduite / technologie)": [],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (⚡ Facilité de recharge)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (🚀 Image de modernité / innovation)": [
+      "False",
+      "True"
+    ],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (Autre)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi avez-vous décidé d'adopter un \nvéhicule électrique, quelles ont été vos motivations ? (🚗 Confort de conduite / technologie)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi ne ré-adopterez vous pas un véhicule électrique ? Est-ce une question de valeurs, de style de vie, d'expériences ?\n": [],
+    "Et vos principaux blocages ? (📉 Perte de confiance (Tesla, incidents))": [
+      "False",
+      "True"
+    ],
+    "Si vous envisagiez d'adopter un véhicule entièrement électrique, quelles serait vos principales motivations ? (🛑 Contraintes réglementaires (ex : ZFE))": [
+      "False",
+      "True"
+    ]
+  },
+  "Infrastructure/Recharge": {
+    "Habitez-vous dans :": [
+      "Une grande ville",
+      "Une ville moyenne",
+      "Une zone périurbaine",
+      "Une zone rurale"
+    ],
+    "Avez-vous accès à une place de parking personnelle ?": [
+      "Non",
+      "Oui, avec borne de recharge ou possibilité d'en installer une (à domicile ou en résidence par exemple)",
+      "Oui, sans borne de recharge ou possibilité d'en installer une"
+    ],
+    "Avez-vous connaissance de bornes de recharge accessibles près de chez vous ?": [
+      "Non, je n'en vois pas",
+      "Oui, des bornes publiques",
+      "Oui, des bornes \"privées\" (Supermarché, lieu de travail...)",
+      "Oui, à domicile (maison, résidence...)"
+    ],
+    "Avez-vous déjà rencontré des difficultés pour recharger votre véhicule électrique ?\n": [
+      "Non",
+      "Oui",
+      "jamais",
+      "parfois",
+      "souvent"
+    ],
+    "Quels types de problèmes rencontrez-vous ? (Borne en panne)": [
+      "False",
+      "True"
+    ],
+    "Quels types de problèmes rencontrez-vous ? (Paiement impossible ou compliqué)": [
+      "False",
+      "True"
+    ],
+    "Quels types de problèmes rencontrez-vous ? (File d’attente / temps d’attente)": [
+      "False",
+      "True"
+    ],
+    "Quels types de problèmes rencontrez-vous ? (Borne occupée)": [
+      "False",
+      "True"
+    ],
+    "Quels types de problèmes rencontrez-vous ? (Incompatibilité de connecteur ou application)": [
+      "False",
+      "True"
+    ],
+    "Quels types de problèmes rencontrez-vous ? (Manque d’informations sur les bornes)": [
+      "False",
+      "True"
+    ],
+    "Pensez-vous que l’infrastructure de recharge est suffisante en France pour vous encourager à adopter un véhicule électrique ?": [
+      "Non",
+      "Oui"
+    ],
+    "Classez ces points par priorité du plus crucial au moins important sur l'infrastructure de recharge": [
+      "Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié",
+      "Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié",
+      "Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié, Plus de bornes, Uniformisation des connecteurs",
+      "Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié, Uniformisation des connecteurs, Plus de bornes",
+      "Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau",
+      "Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide, Plus de bornes",
+      "Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide, Uniformisation des connecteurs",
+      "Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié",
+      "Centralisation des infos (application, prix, disponibilité), Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié, Meilleure maintenance du réseau",
+      "Centralisation des infos (application, prix, disponibilité), Plus de bornes, Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Plus de bornes",
+      "Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de bornes",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide, Plus de bornes",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Paiement simplifié, Meilleure maintenance du réseau, Plus de recharge rapide, Plus de bornes",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes, Paiement simplifié, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Paiement simplifié",
+      "Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau",
+      "Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié",
+      "Meilleure maintenance du réseau, Paiement simplifié, Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité)",
+      "Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Meilleure maintenance du réseau, Paiement simplifié, Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide",
+      "Meilleure maintenance du réseau, Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs",
+      "Meilleure maintenance du réseau, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Paiement simplifié",
+      "Meilleure maintenance du réseau, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs, Plus de bornes",
+      "Meilleure maintenance du réseau, Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs",
+      "Meilleure maintenance du réseau, Plus de recharge rapide, Plus de bornes, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs",
+      "Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Paiement simplifié",
+      "Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs",
+      "Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau",
+      "Paiement simplifié, Meilleure maintenance du réseau, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes",
+      "Paiement simplifié, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Paiement simplifié, Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Paiement simplifié, Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Paiement simplifié, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Paiement simplifié, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau",
+      "Paiement simplifié, Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Paiement simplifié, Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau",
+      "Paiement simplifié, Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau, Plus de recharge rapide, Uniformisation des connecteurs",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Paiement simplifié, Uniformisation des connecteurs, Meilleure maintenance du réseau",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Paiement simplifié, Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Plus de bornes, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de bornes, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de bornes, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide",
+      "Plus de bornes, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié",
+      "Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs",
+      "Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide",
+      "Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Plus de recharge rapide",
+      "Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Paiement simplifié, Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Paiement simplifié, Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de bornes, Paiement simplifié, Plus de recharge rapide, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Paiement simplifié, Uniformisation des connecteurs, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié, Uniformisation des connecteurs",
+      "Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs, Meilleure maintenance du réseau",
+      "Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs",
+      "Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Paiement simplifié, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau",
+      "Plus de bornes, Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Plus de recharge rapide, Paiement simplifié, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de bornes, Plus de recharge rapide, Paiement simplifié, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de bornes, Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de recharge rapide",
+      "Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Paiement simplifié",
+      "Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de bornes, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Plus de bornes, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de bornes, Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Paiement simplifié, Uniformisation des connecteurs",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de bornes",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau, Paiement simplifié, Uniformisation des connecteurs",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié, Plus de bornes",
+      "Plus de recharge rapide, Meilleure maintenance du réseau, Plus de bornes, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de bornes",
+      "Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de bornes",
+      "Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de recharge rapide, Meilleure maintenance du réseau, Uniformisation des connecteurs, Plus de bornes, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Paiement simplifié, Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Paiement simplifié, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Paiement simplifié, Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Paiement simplifié, Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié",
+      "Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Plus de bornes, Meilleure maintenance du réseau, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs",
+      "Plus de recharge rapide, Plus de bornes, Meilleure maintenance du réseau, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Plus de bornes, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Uniformisation des connecteurs",
+      "Plus de recharge rapide, Plus de bornes, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Uniformisation des connecteurs, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Plus de bornes, Paiement simplifié, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié",
+      "Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Plus de recharge rapide, Plus de bornes, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Paiement simplifié",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau, Plus de bornes",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Paiement simplifié",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Paiement simplifié, Plus de bornes, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau",
+      "Plus de recharge rapide, Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide, Plus de bornes",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes, Plus de recharge rapide, Paiement simplifié",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Paiement simplifié, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Paiement simplifié",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Plus de recharge rapide, Paiement simplifié",
+      "Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de bornes",
+      "Uniformisation des connecteurs, Meilleure maintenance du réseau, Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Uniformisation des connecteurs, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Paiement simplifié, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide",
+      "Uniformisation des connecteurs, Paiement simplifié, Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de bornes",
+      "Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Paiement simplifié, Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié, Plus de recharge rapide",
+      "Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Plus de recharge rapide, Paiement simplifié",
+      "Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Plus de recharge rapide, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide, Meilleure maintenance du réseau, Paiement simplifié",
+      "Uniformisation des connecteurs, Plus de bornes, Meilleure maintenance du réseau, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Uniformisation des connecteurs, Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Plus de recharge rapide",
+      "Uniformisation des connecteurs, Plus de bornes, Paiement simplifié, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau, Paiement simplifié",
+      "Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité), Paiement simplifié",
+      "Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Meilleure maintenance du réseau, Paiement simplifié, Centralisation des infos (application, prix, disponibilité)",
+      "Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de bornes, Plus de recharge rapide, Paiement simplifié, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)",
+      "Uniformisation des connecteurs, Plus de recharge rapide, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Plus de bornes, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de recharge rapide, Plus de bornes, Centralisation des infos (application, prix, disponibilité), Paiement simplifié, Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de recharge rapide, Plus de bornes, Paiement simplifié, Centralisation des infos (application, prix, disponibilité), Meilleure maintenance du réseau",
+      "Uniformisation des connecteurs, Plus de recharge rapide, Plus de bornes, Paiement simplifié, Meilleure maintenance du réseau, Centralisation des infos (application, prix, disponibilité)"
+    ],
+    "(Optionnel) Si vous souhaitez apporter des précisions :": [
+      "Autonomie réelle d’environ 300km imposant des recharges quotidiennes (usage pro) à domicile et multiples sur trajets longs (vacances week-end) qui engendrent des pertes de temps",
+      "Comment les batteries sont elles fabriquées ?\nComment peuvent elles être recyclées ?",
+      "Décision politique et non Décision industrielle ",
+      "En fait je ne connais pas le prix d’une voiture électrique. A taille égale, je pense que c’est beaucoup plus cher qu’une voiture thermodynamique",
+      "J'ai besoin d'une voiture que dans le cadre des vacances / weekend prolongé où je dois me déplacer sur de longue distance. L'autonomie est un vrai frein pour mon cas d'usage.",
+      "Je ne suis pas persuadée que le véhicule électrique soit une bonne solution : batterie polluante à fabriquer que l'on se sait pas recycler. C'est à mon sens plus un forcing des industries automobiles qu'une solution contre la pollution. De plus on créer dans tous les domaines (automobile, conservation de nos bases de donnes et nos échanges internet) vers un tout électrique qui nous rend dépendant.  Que se passera t'il en cas de coupure électrique ?",
+      "Je ne suis pas pour les voitures électriques car leur fabrication est très polluante d'une part. D'autre part, cela incite à consommer plus d'électricité et contribue à relancer le nucléaire qui lui-même est très polluant.",
+      "Je ne vois pas l’intérêt, surtout qu'on nous le vend comme solution écolo alors que c'est objectivement pas vrai ! Tant qu'à changer de mode de transport, changeons pour le vélo ou bcp plus de transports en commun, + de bus...\nCe sera plus pratique, plus écolo et moins cher",
+      "Je suis convaincue que l’usage de batteries au lithium n’est ni un projet durable ni un projet écologique, je n’ai aucune confiance dans les industries automobiles qui ne s’intéressent qu’à faire toujours plus de profit.",
+      "J’utilise très peu la voiture au quotidien, et je n’ai pas envie d’obéir à un effet de mode.",
+      "L'emprunte réelle de production des batteries et leurs fins de vie",
+      "L'installation de bornes électriques au sein de la copropriété doit être décidé en AG et pour l'instant les habitants ne sont pas d'accord pour en installer",
+      "Le bilan écologique n’est regardé que sous l’angle des émissions à l’utilisation, d’ailleurs, les chiffres sont floutés car on évoque que les émissions moteurs, qui sont sur les moteurs thermiques modernes moindre que la poussière de frein … bref, le bilan écologique tel qu’affiché est malheureusement plus idéologique que scientifique ",
+      "Le choix de passer à l’électrique est très lié uniquement à la performance de Tesla sur le véhicule et l’expérience de rouler en électrique.",
+      "Le coût d'achat nécessite d'acheter chinois... pas top pour l'Europe et la pollution d'acheminement \nLes incendies liés aux batteries sont catastrophiques",
+      "Malgré les efforts, trop peu de bornes de recharge utilisables, surtout en campagne.",
+      "Pas besoin de voiture",
+      "Pas vraiment de blocage, je faisais entièrement confiance au garagiste qui m'a conseillé ",
+      "Peu de bornes en zone rurale préférence pour l'hybride",
+      "Pour le \"Respect de vos convictions\", je parle notamment de l'amélioration de qualité de l'air et la réduction de la pollution sonore en ville. ",
+      "Pourquoi y aurait il obligatoirement des facteurs bloquants???",
+      "Pratique pour petits trajets travail-maison-courses\nPratique pour certains emplois tels que libéraux ",
+      "Ras",
+      "Tant que toutes les bornes ne proposent pas le règlement par carte bancaire, la recharge à l'extérieur du domicile reste une opération risquée",
+      "Temps de chargement beaucoup plus long par rapport à un plein d'essence.\nPas de possibilité d'installer une prise électrique chez moi.\nL'option du véhicule hybride non rechargeable nous paraît être une meilleure solution. ",
+      "Très contente de ma voiture actuelle, je ne veux pas de voiture électrique j'aurais des problèmes pour recharger (pas de prise a disposition)",
+      "Très peu de kilomètres parcourus en pleine charge ( chauffage prend sur la batterie ainsi que la climatisation)\nSi on roule un peu sport la voiture se décharge vite\n",
+      "pas assez de recul par rapport  au voiture thermique et la fiabilité  des batteries ",
+      "Étant donné que j'utilise la voiture principalement lorsque je sors de la ville, ou lorsque les transports en commun deviennent trop contraignant, j'ai besoin d'une bonne autonomie "
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Longs trajets réguliers)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Loisirs / Week-ends)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Déplacements professionnels)": [
+      "True",
+      "False"
+    ],
+    "À quel point diriez-vous que vous connaissez bien les offres actuelles de véhicules électriques et d'infrastructures associées ?": [
+      "Assez bien, je vois passer des informations",
+      "Pas du tout, je ne m’y suis jamais vraiment intéressé",
+      "Très bien, je suis régulièrement les nouveautés",
+      "Un peu, je connais quelques modèles et options"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Déplacements professionnels)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Trajets domicile-travail)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ?": [],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Trajets domicile-travail)": [
+      "True",
+      "False"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n (Hybride rechargeable)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Loisirs / Week-ends)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Covoiturage)": [
+      "True",
+      "False"
+    ],
+    "Quels types de problèmes rencontrez-vous ?": [],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Déplacements professionnels)": [
+      "True",
+      "False"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n (Hybride non rechargeable)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Covoiturage)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Autre)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Longs trajets réguliers)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ?": [],
+    "Quels types de problèmes rencontrez-vous ? (Autre)": [
+      "True",
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Autre)": [
+      "True",
+      "False"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Déplacements professionnels)": [
+      "True",
+      "False"
+    ]
+  },
+  "Social/Information": {
+    "Combien de personnes dans votre entourage utilisent un véhicule électrique ?\n": [
+      "Aucune",
+      "Beaucoup (plus de 5)",
+      "Peu (1 à 3)",
+      "Plusieurs (3 à 5)"
+    ],
+    "Vous diriez que [Vous avez déjà échangé sur le sujet des véhicules électriques avec votre entourage]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Vous diriez que [l'avis de votre entourage vous à encourager dans l'adoption du véhicule électrique]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Vous diriez que [L'avis de votre entourage est positif envers le véhicule électrique]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Vous diriez que [Échanger avec eux vous a rassuré ou motivé sur ce sujet]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Avez-vous déjà entendu parler de ces acteurs de la recharge ?\n": [
+      "Autre",
+      "Bump",
+      "ChargeMap",
+      "Connaissance très vague de ma part",
+      "Electra",
+      "Fastned",
+      "Freshmile",
+      "Ionity",
+      "Mobive",
+      "Non",
+      "Picoty",
+      "Schneider Electric",
+      "Shell Recharge",
+      "Tesla Superchargeurs",
+      "TotalEnergies",
+      "Zeplug",
+      "je ne connais aucun de ces noms"
+    ],
+    "Quelles marques vous semblent proposer une offre électrique claire et bien communiquée ?\n": [
+      "Aucune",
+      "Audi",
+      "Autre",
+      "BMW",
+      "BYD",
+      "Byd",
+      "Chinoises",
+      "Citroën",
+      "Citroën ( la Ami)",
+      "Dacia",
+      "FIAT",
+      "Ford",
+      "Honda",
+      "Hyundai",
+      "Je sais pas",
+      "Kia",
+      "Lexus",
+      "MG",
+      "Mercedes",
+      "Peugeot",
+      "Renault",
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Volvo",
+      "je serais plus intéressé  par  un véhicule  hybride  et thermique",
+      "polestar"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n": [
+      "Autre",
+      "Comparateurs de véhicules",
+      "Concessionnaires",
+      "Entourage (amis",
+      "Forums / avis en ligne",
+      "IA",
+      "Je ne cherche pas d informations",
+      "Je ne cherche pas d’info",
+      "Je ne cherche pas. Je lis des articles de presse",
+      "Je ne suis pas intéressé",
+      "Magazines auto",
+      "Magazines de consommateurs",
+      "Médias généralistes / spécialisés",
+      "Non",
+      "Pas encore cherché",
+      "Presse",
+      "Réseaux sociaux",
+      "Salons ou événements",
+      "Sites des constructeurs / Concessionnaires",
+      "Travail",
+      "YouTube / Influenceurs automobile",
+      "collègues…)",
+      "je ne me sens pas acheteur actuellement 8",
+      "non"
+    ],
+    "Ces sources vous paraissent-elles claires et fiables ?\n": [
+      "Je ne me suis jamais renseigné(e)",
+      "Non",
+      "Oui",
+      "Pas toujours",
+      "il faut croiser les infos et c'était plutôt complexe de comprendre les offres et véhicules disponible sur le marché",
+      "je n'ai jamais vu d'informations claires sur le sujet",
+      "je trouve ça compliqué à comprendre",
+      "j’ai facilement trouvé ce que je cherchais"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Entourage (amis, collègues…))": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Salons ou événements)": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Forums / avis en ligne)": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Médias généralistes / spécialisés)": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Réseaux sociaux)": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Comparateurs de véhicules)": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Autre)": [
+      "True",
+      "False"
+    ],
+    "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Sites des constructeurs / Concessionnaires)": [
+      "True",
+      "False"
+    ],
+    "Classez vos facteurs bloquants par ordre d'importance": []
+  },
+  "Connaissance/Compréhension": {
+    "À quel point diriez-vous que vous connaissez bien les offres actuelles de véhicules électriques et d'infrastructures associées ?": [
+      "Assez bien, je vois passer des informations",
+      "Pas du tout, je ne m’y suis jamais vraiment intéressé",
+      "Très bien, je suis régulièrement les nouveautés",
+      "Un peu, je connais quelques modèles et options"
+    ],
+    "Dans quelle mesure êtes-vous d’accord avec les affirmations suivantes concernant les véhicules électriques ?\n [J'ai l'impression qu'un véhicule électrique est facile à prendre en main]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement en désaccord",
+      "Tout à fait d'accord"
+    ],
+    "Dans quelle mesure êtes-vous d’accord avec les affirmations suivantes concernant les véhicules électriques ?\n [Les aspects pratiques d’un véhicule électrique sont clairs pour moi (ex. : recharge, autonomie, entretien)]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement en désaccord",
+      "Tout à fait d'accord"
+    ],
+    "Dans quelle mesure êtes-vous d’accord avec les affirmations suivantes concernant les véhicules électriques ?\n [La durabilité d'un véhicule électrique est équivalente à celle d'un véhicule thermique]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement en désaccord",
+      "Tout à fait d'accord"
+    ],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ?\n (La prise en main rapide du véhicule)": [
+      "False",
+      "True"
+    ],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ? [La conduite fluide]": [
+      "False",
+      "True"
+    ],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ? [La prise en main rapide du véhicule]": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ? [L'accélération instantanée\n]": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ?\n": [],
+    "(Optionnel) D'autres aspects du véhicule qui, pour vous, impactent l'adoption ?": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ?\n (L'accélération instantanée)": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ? [Le confort général\n]": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ? [Le silence du moteur\n]": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ?\n (Le confort général)": [],
+    "Dans quelle mesure êtes-vous d’accord avec les affirmations suivantes concernant les véhicules électriques ?\n [Un véhicule électrique correspondrait à mon mode de vie actuel]": [],
+    "(Optionnel) Si vous souhaitez apporter des précisions :": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ?\n (La conduite fluide)": [],
+    "Pensez-vous que les aspects suivant sont des avantages poussant à l'adoption d'un véhicule électrique ?\n (Le silence du moteur)": []
+  },
+  "Expérience/Usage": {
+    "Avez-vous déjà eu l’occasion de conduire ou de monter dans un véhicule électrique ?": [
+      "Non",
+      "Oui",
+      "jamais",
+      "j’ai conduit",
+      "j’étais passager"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n (Essence ou Diesel)": [
+      "False",
+      "True"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n (Hybride non rechargeable)": [
+      "False",
+      "True"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n (Hybride rechargeable)": [
+      "False",
+      "True"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n (Électrique)": [
+      "False",
+      "True"
+    ],
+    "Combien de véhicules personnels utilisez-vous dans votre foyer ?": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "Combien êtes-vous dans votre foyer ?": [
+      "1",
+      "11",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "(Optionnel) Parmi cette liste, avez-vous déjà rencontré certaines de ces limites ou de ces problèmes techniques (panne, problème dans l'entretien du véhicule) ?   [Difficultés à faire entretenir ou réparer le véhicule (pièces, délais, SAV)]": [
+      "1 ou 2 fois",
+      "Plusieurs fois",
+      "Jamais",
+      "Très souvent"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Trajets domicile-travail)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Déplacements professionnels)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Loisirs / Week-ends)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Longs trajets réguliers)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Covoiturage)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Trajets domicile-travail)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Déplacements professionnels)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Loisirs / Week-ends)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Longs trajets réguliers)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride non rechargeable ? (Covoiturage)": [
+      "False"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Trajets domicile-travail)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Déplacements professionnels)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Loisirs / Week-ends)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Longs trajets réguliers)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule hybride rechargeable ? (Covoiturage)": [
+      "False"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Trajets domicile-travail)": [
+      "False",
+      "True"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Déplacements professionnels)": [
+      "False",
+      "True"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Loisirs / Week-ends)": [
+      "False",
+      "True"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Longs trajets réguliers)": [
+      "False",
+      "True"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Covoiturage)": [
+      "True",
+      "False"
+    ],
+    "Quelles habitudes en particulier ? (J’utilise moins souvent le chauffage ou la climatisation)": [],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Je n'ai pas besoin de voiture pour mes trajets quotidiens)": [
+      "False",
+      "True"
+    ],
+    "Quelles habitudes en particulier ? (Je privilégie les trajets courts ou je fais plus d’arrêts)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ? (Autre)": [
+      "False",
+      "True"
+    ],
+    "Quels types de véhicules possédez vous dans votre foyer (plusieurs réponses possibles) \n": [],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Autre)": [
+      "False",
+      "True"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ?": [],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Les frais)": [
+      "False",
+      "True"
+    ],
+    "Diriez-vous que : [Ne possédant pas de véhicule 100% électrique, vous vous sentez attiré(e) par cette technologie et envisagez de l'adopter]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Quelles habitudes en particulier ?": [],
+    "Diriez-vous que : [En tant qu'utilisateur d'un véhicule électrique, vous en reprendrez un lors de votre prochain changement de véhicule]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Quelles habitudes en particulier ? (J’adapte ma vitesse pour consommer moins)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi n'avez-vous pas de véhicule ?\n": [],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Le vélo, la marche ou d'autres moyens de transport me conviennent)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Je vis dans une zone bien desservie par les transports en commun)": [
+      "False",
+      "True"
+    ],
+    "Quels sont lesprincipaux usages de votre véhicule électrique ? (Autre)": [
+      "False",
+      "True"
+    ],
+    "Quelles habitudes en particulier ? (Autre)": [
+      "False",
+      "True"
+    ],
+    "Quels sont les principaux usages de votre véhicule essence / diesel ?": [],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Je n'ai pas de permis de conduire)": [
+      "False",
+      "True"
+    ],
+    "Pourquoi n'avez-vous pas de véhicule ?\n (Je préfère ne pas être dépendant de la voiture)": [
+      "False",
+      "True"
+    ],
+    "Quelles habitudes en particulier ? (J’évite les longs trajets ou je les planifie différemment)": [
+      "False",
+      "True"
+    ],
+    "Avez-vous changé vos habitudes de conduite depuis que vous utilisez un véhicule électrique ?": []
+  },
+  "Adoption/Intention": {
+    "Diriez-vous que : [Ne possédant pas de véhicule 100% électrique, vous vous sentez attiré(e) par cette technologie et envisagez de l'adopter]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Diriez-vous que : [En tant qu'utilisateur d'un véhicule électrique, vous en reprendrez un lors de votre prochain changement de véhicule]": [
+      "Plutôt d'accord",
+      "Plutôt en désaccord",
+      "Totalement d'accord",
+      "Totalement en désaccord"
+    ],
+    "Est-ce que ces aides impactent votre envie d'adopter un véhicule électrique ?": [
+      "Non",
+      "Oui",
+      "Vaguement"
+    ]
+  },
+  "Données sociodémographiques": {
+    "Dans quelle tranche d’âge vous situez-vous ?\n": [
+      "25 à 34 ans",
+      "35 à 44 ans",
+      "45 à 54 ans",
+      "55 à 64 ans",
+      "65 à 74 ans",
+      "75 ans et plus",
+      "Je ne préfère pas répondre",
+      "Moins de 25 ans"
+    ],
+    "Quelle est votre situation professionnelle actuelle ?\n": [
+      "Alternant",
+      "Cadre ou profession intellectuelle supérieure",
+      "Employé(e)",
+      "En recherche d’emploi",
+      "Fonctionnaire",
+      "Indépendant / Entrepreneur",
+      "Je préfère ne pas répondre",
+      "Retraité(e)",
+      "Étudiant(e)"
+    ],
+    "Sexe": [],
+    "Niveau d’études": [],
+    "Habitez-vous dans :": [
+      "Une grande ville",
+      "Une ville moyenne",
+      "Une zone périurbaine",
+      "Une zone rurale"
+    ],
+    "Dans quel secteur travaillez-vous ?\n": [],
+    "Dans quel domaine étudiez-vous actuellement ?\n": []
+  },
+  "A classer": {
+    "Submission ID": [],
+    "Respondent ID": [],
+    "Submitted at": [],
+    "(Optionnel) Si vous avez des commentaires à partager sur ce questionnaire, n'hésitez pas :": []
+  }
+}
