@@ -623,14 +623,11 @@
       "non"
     ],
     "Ces sources vous paraissent-elles claires et fiables ?\n": [
-      "Je ne me suis jamais renseigné(e)",
-      "Non",
-      "Oui",
-      "Pas toujours",
-      "il faut croiser les infos et c'était plutôt complexe de comprendre les offres et véhicules disponible sur le marché",
-      "je n'ai jamais vu d'informations claires sur le sujet",
-      "je trouve ça compliqué à comprendre",
-      "j’ai facilement trouvé ce que je cherchais"
+      "Pas toujours, il faut croiser les infos et c'était plutôt complexe de comprendre les offres et véhicules disponible sur le marché",
+      "Non, je trouve ça compliqué à comprendre, je n'ai jamais vu d'informations claires sur le sujet",
+      "Oui, j’ai facilement trouvé ce que je cherchais",
+      "Je ne me suis jamais renseigné(e)"
+
     ],
     "Où avez-vous cherché (ou chercheriez-vous) des informations sur les véhicules électriques ?\n (Entourage (amis, collègues…))": [
       "True",
